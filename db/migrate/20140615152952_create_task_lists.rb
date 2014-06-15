@@ -1,11 +1,9 @@
-class CreateTasks < ActiveRecord::Migration
+class CreateTaskLists < ActiveRecord::Migration
   def change
-    create_table :tasks do |t|
+    create_table :task_lists do |t|
       t.string :name, null: false
       t.text :description
-      t.datetime :due_date
       t.integer :user_id
-      t.integer :task_list_id
       t.timestamps
     end
   end
