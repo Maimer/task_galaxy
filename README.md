@@ -1,0 +1,1 @@
+![ER Diagram](https://raw.githubusercontent.com/Maimer/task_galaxy/master/ERDiagram.png?token=6377583__eyJzY29wZSI6IlJhd0Jsb2I6TWFpbWVyL3Rhc2tfZ2FsYXh5L21hc3Rlci9FUkRpYWdyYW0ucG5nIiwiZXhwaXJlcyI6MTQwMzQ2MDA4OX0%3D--1cdab5ef713498ccbdbe18f8b760aae180361bbe)
